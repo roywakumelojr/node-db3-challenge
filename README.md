@@ -79,7 +79,7 @@ The following endpoints are available to test the functionality of the model met
 - `PUT /api/schemes:id` - updates a given scheme
 - `DELETE /api/schemes/:id` - removes a given scheme and all associated steps
 
-## Stretch Problems
+## Stretch Problems.
 
 - In [SQL Try Editor at W3Schools.com](https://www.w3schools.com/Sql/tryit.asp?filename=trysql_select_top):
   - Displays CategoryName and a new column called Count that shows how many products are in each category. Shows 9 records.
